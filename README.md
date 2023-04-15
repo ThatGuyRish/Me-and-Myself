@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gengarite27
+- 👋 Hi, I’m @Rish
 - 👀 I’m interested in making discord bots and small games
-- 🌱 I’m currently learning Javascript and RMXP
-- 📫 How to reach me Gengarite#3521 in discord
+- 🌱 Currently learning to Live!
+- 📫 Rish#5626 on discord
 
 <!---
 Gengarite27/Gengarite27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
